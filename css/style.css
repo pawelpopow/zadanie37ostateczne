@@ -1,0 +1,24 @@
+/*Selektor zancznika*/
+h1 {
+    color: brown;
+    background-color: chartreuse;
+}
+
+p {
+    color: green;
+    background-color: red;
+}
+
+/*Selektor id*/
+
+#dodaj {
+    color: white;
+    background-color: black;
+}
+#usun {
+    color: white;
+    background-color: black;
+}
+#main-section {
+    background-color: blue;
+}
